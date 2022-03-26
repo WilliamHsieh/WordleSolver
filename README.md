@@ -3,8 +3,9 @@
 - dataset from [jonhoo](https://github.com/jonhoo/roget)
 
 ## Build and run
-Requirement
+Requirements
 - `g++` with `c++20` support
+- `openmp`
 
 ```
 make
